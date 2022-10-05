@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SCOPRO"]
+	path = SCOPRO
+	url = https://github.com/scialdonelab/scopro
+	shallow = true
+	registered = true
